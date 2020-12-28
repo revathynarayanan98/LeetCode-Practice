@@ -20,3 +20,12 @@ class Solution {
       return -1;
     }
 }
+
+
+//hashmaps are lists of keys and values
+//has inbuilt methods such as put to put keys and its values, get to get/retrieve keys and values, containsKey boolean method which returns if a key/value exists or not,
+//containsValues, replace to replace keys/values, remove
+//STEPS
+//Created a hashmap 
+//then iterated through the string and put it in the hashmap- whenever it contains the char it increases the value by 1 and when not it puts the value as 1
+//made another for loop to output the index of first key whose value == 1
