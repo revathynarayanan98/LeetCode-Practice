@@ -1,2 +1,2 @@
 # LeetCode-Practice
-Storage for my leetcode coding practice.
+LeetCode questions that I have solved
